@@ -1,4 +1,3 @@
-<script type='text/javascript'>
     // Mendeteksi user agent pengunjung
     var userAgent = navigator.userAgent || navigator.vendor || window.opera;
 
@@ -21,4 +20,3 @@
     } else {
         // Script tidak berfungsi karena tidak memenuhi kondisi yang ditentukan
     }
-</script>
